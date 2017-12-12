@@ -19,7 +19,7 @@
         <activity android:name=".DisplayMessageActivity" android:parentActivityName=".MainActivity" >
             <!-- Includes metadata for support of older devices (APIs 15 or Lower) -->
         <meta-data
-            android:name="android.support.PARENT_aCTIVITY"
+            android:name="android.support.PARENT_ACTIVITY"
             android:value="MainActivity" />
 
         </activity>
